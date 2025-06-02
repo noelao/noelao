@@ -4,4 +4,4 @@ memasak dengan garpu taman.
 * gagak rimang mangan ketan
 * tunggak waru godong dadap
 
-## suika bangan doyo
+## suika mbadog doyo
