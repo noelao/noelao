@@ -5,3 +5,4 @@ memasak dengan garpu taman.
 * tunggak waru godong dadap
 
 ## suika mbadog doyo
+pak ogah naik haji
