@@ -5,5 +5,5 @@ memasak dengan garpu taman.
 * tunggak waru godong dadap
 
 ## suika mbadog doyo
-pak ogah naik haji
-dmema pancaroba zzz... 10 Juni 2025
+pak ogah naik haji 
+demam pancaroba zzz... 10 Juni 2025
