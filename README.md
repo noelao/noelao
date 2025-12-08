@@ -1,2 +1,4 @@
 # Welcome Brotha...
 in the beningging everyting in there it just bounch of text
+
+day 1 just wanna green day
