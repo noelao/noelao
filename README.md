@@ -16,7 +16,11 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![Noelao's Stats](https://github-readme-stats.vercel.app/api?username=noelao&theme=high_contrast&show_icons=true&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=noelao&theme=high_contrast&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelao&theme=high-contrast&hide_border=true" />
+</p>
 
 ---
 
