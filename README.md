@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-![Ahmad's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=high_contrast&show_icons=true&hide_border=true&count_private=true)
+![noelao's Stats](https://github-readme-stats.vercel.app/api?username=noelao&theme=high_contrast&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
