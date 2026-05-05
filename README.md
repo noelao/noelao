@@ -16,9 +16,8 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelao&theme=high-contrast&hide_border=true" />
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelao)](https://git.io/streak-stats)
 
 ---
 
